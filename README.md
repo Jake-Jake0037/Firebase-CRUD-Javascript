@@ -1,2 +1,2 @@
 # Firebase-CRUD-Javascript
-System simple CRUD with Vanilla Javascript, Firebase and Bootstrap.
+Simple CRUD System with Vanilla Javascript, Firebase and Bootstrap.
